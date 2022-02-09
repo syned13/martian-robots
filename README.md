@@ -1,7 +1,7 @@
 # Martian robots
 
 Martian robots is a simple typescript/nodejs program that solves
-the Martian robots challenge.
+the [Martian robots challenge](https://github.com/syned13/martian-robots/blob/master/robots.md).
 
 ## Requirements
 - Git
